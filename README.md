@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="JobsCalc" title="JobsCalc" src="https://raw.githubusercontent.com/recieire/JobsCalc/main/.github/jobscalc.png" width="220px" />
+  <img alt="JobsCalc" title="JobsCalc" src="https://github.com/renantb/Jobscalc/blob/main/jobscalc.png"  />
 </h1>
 
 <p align="center">
